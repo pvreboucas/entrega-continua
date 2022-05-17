@@ -2,7 +2,7 @@
 
 [Curso de Entrega Contínua(CD) da formação DevOps/Alura](https://cursos.alura.com.br/course/entrega-continua-confiabilidade-qualidade)
 
-[<< CURSO ANTERIOR](https://github.com/pvreboucas/integracao-continua)
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/integracao-continua-ci)
 
 [Principal](https://github.com/pvreboucas/entrega-continua)
 
